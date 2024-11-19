@@ -41,7 +41,7 @@ Follow these instructions to set up the project locally.
  1.  Clone the repository:
 	
 
-	    git clone https://github.com/syedahmedullah14/blogging-app-like-medium.git
+	    git clone https://github.com/Shivam0pareek/blogging-app-like-medium-main/tree/main
 
  2. Navigate to the project directory:
  
